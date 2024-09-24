@@ -1,0 +1,16 @@
+name = "QuantumCalibration"
+uuid = "f72da0b9-0e23-40cb-9d16-b38fce394389"
+authors = ["Aaron Trowbridge <aaron.j.trowbridge@gmail.com> and contributors"]
+version = "0.0.1"
+
+[deps]
+Piccolo = "c4671d76-df94-11ed-2057-43d4fd632fad"
+
+[compat]
+julia = "1.10"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
