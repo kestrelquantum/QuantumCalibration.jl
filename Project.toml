@@ -7,7 +7,7 @@ version = "0.0.1"
 Piccolo = "c4671d76-df94-11ed-2057-43d4fd632fad"
 
 [compat]
-Piccolo = "0.2"
+Piccolo = "0.2, 0.3"
 julia = "1.10"
 
 [extras]
